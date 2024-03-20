@@ -1,0 +1,14 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	TO                3002
+//	LOOP              3004
+//	NEG               3007
+//	POS               300C
+//	DONE              3010
+//	OVER              3015
+//	NUM               3017
+//	DST               3018
+//	TURN              3019
+
