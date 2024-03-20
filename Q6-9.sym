@@ -1,0 +1,9 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	DISPLAY           3000
+//	LOOP              3002
+//	Z                 3006
+//	COUNT             3007
+

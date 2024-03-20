@@ -1,0 +1,19 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	READ              3000
+//	JUDGE             3002
+//	ODD               3007
+//	EVEN              300D
+//	P                 3016
+//	DDR               3017
+//	O                 3018
+//	D                 3019
+//	E                 301A
+//	EL                301B
+//	V                 301C
+//	N                 301D
+//	COUNT             301E
+//	NUM               301F
+

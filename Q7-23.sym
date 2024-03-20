@@ -1,0 +1,13 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	AGAIN             3002
+//	CONT              3006
+//	LOOP              3007
+//	YES               3014
+//	NO                3017
+//	DONE              3018
+//	PTR               3019
+//	STRING            301A
+
